@@ -1,2 +1,2 @@
 # simple-chatty-bot
-Simple chatty bot
+Simple Chatty Bot
